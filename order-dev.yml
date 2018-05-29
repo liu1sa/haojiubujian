@@ -11,3 +11,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://liuhuan:haojiubujian@localhost:8761/eureka/
+env: dev
