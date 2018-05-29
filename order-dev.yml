@@ -1,4 +1,4 @@
-hello: hello word!
+
 spring:
   application:
     name: order
@@ -7,7 +7,4 @@ spring:
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://liuhuan:haojiubujian@localhost:8761/eureka/
+
