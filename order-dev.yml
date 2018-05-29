@@ -1,13 +1,2 @@
-hello: hello word!
-spring:
-  application:
-    name: order
-  datasource:
-    url: jdbc:mysql://127.0.0.1:3306/spring-cloud?useUnicode=true&characterEncoding=UTF-8
-    username: root
-    password: 123456
-    driver-class-name: com.mysql.jdbc.Driver
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://liuhuan:haojiubujian@localhost:8761/eureka/
+hello:hello word!
+
