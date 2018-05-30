@@ -1,4 +1,4 @@
-hello: 1
+hello: hello word!
 spring:
   application:
     name: order
